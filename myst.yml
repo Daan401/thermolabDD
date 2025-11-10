@@ -3,10 +3,10 @@ project:
   id: 7204695b-7485-4989-863c-16cf6e4db155
   title: Thermolab
   authors: 
-    - name: Freek Pols
-    - name: Roel Smit
+    - name: Daan van der Molen
+    - name: Daniel Ian Roelse
 
-  date: 2025-11-05
+  date: 2025-10-11
   github: https://github.com/Daan401/thermolabDD.git 
 
 extends:
