@@ -6,7 +6,7 @@ project:
     - name: Daan van der Molen
     - name: Daniel Ian Roelse
 
-  date: 2025-10-11
+  date: 10-11-2025
   github: https://github.com/Daan401/thermolabDD.git 
 
 extends:
