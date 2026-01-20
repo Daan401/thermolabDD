@@ -31,8 +31,8 @@ project:
             - title: VSC
               url: https://teachbooks.io/learn-programming/workflows/git/vscode
 
-    - file: Content/PySim/uitleg.md
     - title: Simulaties
+    - file: Content/PySim/uitleg.md
       children:
         - file: Content/PySim/1_intro_sim.ipynb
         - file: Content/PySim/2_deeltjes_model.ipynb
@@ -44,8 +44,8 @@ project:
         - file: Content/PySim/8_thermostaat.ipynb
         - file: Content/PySim/9_entropie.ipynb
 
-    - file: Content/Labs/uitleg.md
     - title: Labs
+    - file: Content/Labs/uitleg.md
       children:
         - title: Soortelijke warmte
           children:
