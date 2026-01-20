@@ -31,9 +31,8 @@ project:
             - title: VSC
               url: https://teachbooks.io/learn-programming/workflows/git/vscode
 
-
-    - title: Simulaties
     - file: Content/PySim/uitleg.md
+    - title: Simulaties
       children:
         - file: Content/PySim/1_intro_sim.ipynb
         - file: Content/PySim/2_deeltjes_model.ipynb
@@ -45,19 +44,19 @@ project:
         - file: Content/PySim/8_thermostaat.ipynb
         - file: Content/PySim/9_entropie.ipynb
 
-    - title: Labs
     - file: Content/Labs/uitleg.md
+    - title: Labs
       children:
         - title: Soortelijke warmte
           children:
-          - file: Content/Labs/cwater.ipynb
-          - file: Content/Labs/Verdamping.ipynb        
-          - file: Content/Labs/Warmtecapaciteit.ipynb
-          - file: Content/Labs/koelbuis.ipynb
+            - file: Content/Labs/cwater.ipynb
+            - file: Content/Labs/Verdamping.ipynb        
+            - file: Content/Labs/Warmtecapaciteit.ipynb
+            - file: Content/Labs/koelbuis.ipynb
 
         - title: Druk
           children:
-          - file: Content/Labs/druksensorijken.ipynb
-          - file: Content/Labs/pV_diagram.ipynb
+            - file: Content/Labs/druksensorijken.ipynb
+            - file: Content/Labs/pV_diagram.ipynb
         
   
